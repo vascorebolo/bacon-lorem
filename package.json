@@ -1,0 +1,28 @@
+{
+  "name": "bacon-lorem",
+  "main": "./lib/bacon-lorem",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "lorem",
+    "bacon",
+    "dummy"
+    "generator",
+    "placeholder"
+    "pork",
+    "beaf",
+    "meat",
+    "meatball"
+  ],
+  "activationCommands": {
+    "atom-workspace": "bacon-lorem:toggle"
+  },
+  "repository": "https://github.com/atom/bacon-lorem",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}

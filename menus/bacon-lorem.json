@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle bacon-lorem",
+        "command": "bacon-lorem:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "bacon-lorem",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "bacon-lorem:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
