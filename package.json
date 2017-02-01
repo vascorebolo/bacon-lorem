@@ -5,14 +5,15 @@
   "description": "Atom package that let's you automatically insert \"bacon ipsum\" dummy/placeholder text to any file in atom.",
   "keywords": [
     "lorem",
+    "ipsum",
+    "lipsum",
     "bacon",
-    "dummy"
+    "meat",
+    "pork",
+    "text",
+    "dummy",
     "generator",
     "placeholder"
-    "pork",
-    "beaf",
-    "meat",
-    "meatball"
   ],
   "activationCommands": {
     "atom-workspace": "bacon-lorem:toggle"
