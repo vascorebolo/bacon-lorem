@@ -2,7 +2,6 @@
 
 This package let's you automatically insert [bacon ipsum](http://baconipsum.com/json-api/) dummy/placeholder text to any file in [atom](https://atom.io/).
 
----
 
 ## How to use
 Insert a string with the following format: `bacon[nr-of-sentences]` and toggle the package. The text will be
