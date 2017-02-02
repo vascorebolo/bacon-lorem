@@ -1,7 +1,7 @@
 {
   "name": "bacon-lorem",
   "main": "./lib/bacon-lorem",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom package that let's you automatically insert \"bacon ipsum\" dummy/placeholder text to any file in atom.",
   "keywords": [
     "lorem",
